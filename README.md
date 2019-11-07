@@ -1,0 +1,1 @@
+In this project I'll attempt to clone the google homepage (without it's functionality, just the looks)
